@@ -1,6 +1,6 @@
 {
   "name": "@akhetopnu/array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility functions for array operations",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,5 @@
+const ARRAY = Array;
+
 export const test = (len, fn = () => true) => list =>
 	ARRAY.isArray(list) &&
 	list.length === len &&
