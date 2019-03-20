@@ -1,0 +1,24 @@
+{
+  "name": "@akhetopnu/array",
+  "version": "0.0.1",
+  "description": "Utility functions for array operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhetopnu/akhetopnu-array.git"
+  },
+  "keywords": [
+    "functional",
+    "pure",
+    "vanilla"
+  ],
+  "author": "Akhetopnu",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Akhetopnu/akhetopnu-array/issues"
+  },
+  "homepage": "https://github.com/Akhetopnu/akhetopnu-array#readme"
+}
