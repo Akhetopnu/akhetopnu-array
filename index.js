@@ -1,5 +1,8 @@
+import { complement } from '@akhetopnu-bool';
+
 const ARRAY = Array;
 
+export const isArray = ARRAY.isArray;
 export const test = (len, fn = () => true) => list =>
 	ARRAY.isArray(list) &&
 	list.length === len &&

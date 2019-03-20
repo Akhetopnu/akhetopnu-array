@@ -19,5 +19,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "@akhetopnu/bool": "0.0.1"
+  }
 }
