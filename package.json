@@ -16,9 +16,8 @@
     "vanilla"
   ],
   "author": "Akhetopnu",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/Akhetopnu/akhetopnu-array/issues"
+  "publishConfig": {
+    "access": "public"
   },
-  "homepage": "https://github.com/Akhetopnu/akhetopnu-array#readme"
+  "license": "WTFPL"
 }
